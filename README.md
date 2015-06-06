@@ -1,6 +1,6 @@
 ###This is submission for the Coursera Course "Exploratory Data Analysis".
 
-##Instructions:
+###Instructions:
 
 Download the R scripts your local working directory for R
 
